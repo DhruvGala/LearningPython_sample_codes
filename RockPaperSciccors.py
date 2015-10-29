@@ -10,7 +10,6 @@ version log: <1.0> implemented basic functionality of Rock Papers Scissors game.
 import sys, random
 
 from pip._vendor.distlib.compat import raw_input
-from _ast import Param
 
 
 #changes the number to choice for display purposes.
